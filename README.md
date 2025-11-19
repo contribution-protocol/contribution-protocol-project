@@ -115,3 +115,8 @@ please, do it with someone by your side.
 Don’t create it in isolation.
 This was born so that people could support one another.
 
+
+
+## Social Accounts
+- Amazon (English Edition): [https://www.amazon.com/dp/B0G2SM4PZW](https://www.amazon.com/dp/B0G2SM4PZW?ref_=pe_93986420_774957520)
+

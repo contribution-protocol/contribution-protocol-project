@@ -116,7 +116,7 @@ Don’t create it in isolation.
 This was born so that people could support one another.
 
 
-
+<br><br><br><br>
 
 
 ---
@@ -124,6 +124,7 @@ This was born so that people could support one another.
 
 **English Edition (Amazon):**  
 [https://www.amazon.com/dp/B0G2SM4PZW](https://www.amazon.com/dp/B0G2SM4PZW?ref_=pe_93986420_774957520)
+
 
 
 

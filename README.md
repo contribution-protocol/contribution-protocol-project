@@ -116,6 +116,8 @@ Don’t create it in isolation.
 This was born so that people could support one another.
 
 
+
+
 ---
 
 ## License Notice
@@ -129,7 +131,8 @@ are licensed under CC BY 4.0.
 ## Publication
 
 **English Edition (Amazon):**  
-(https://www.amazon.com/dp/B0G2SM4PZW)
+https://www.amazon.com/dp/B0G2SM4PZW
+
 
 
 

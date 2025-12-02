@@ -116,21 +116,23 @@ Don’t create it in isolation.
 This was born so that people could support one another.
 
 
-<br><br><br><br>
+<br><br><br>
 ---
+
 ## License Notice
 
 All documents in this repository
 (specifications, papers, and text files)
 are licensed under CC BY 4.0.
 
-<br><br>
+<br>
 
 ---
 ## Publication
 
 **English Edition (Amazon):**  
 [https://www.amazon.com/dp/B0G2SM4PZW](https://www.amazon.com/dp/B0G2SM4PZW?ref_=pe_93986420_774957520)
+
 
 
 

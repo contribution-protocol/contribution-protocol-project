@@ -1,0 +1,56 @@
+MVP (Prototype) v0.1 — P2P Contribution Log
+
+
+
+1. Purpose-------------------
+
+This MVP implements the smallest unit of the protocol:
+a decentralized action log that records and displays contribution activities without any central authority.
+It realizes the first step of the protocol’s core cycle: Action → Record → Circulation.
+
+
+2. Features-------------------
+
+･Action Registration (POST): Registers one contribution action attributed to a user.
+
+･Action List (GET): Retrieves and displays all recorded contribution logs.
+
+
+3. Database Schema（DB構造）-------------------
+
+| column | type                     |
+| ------ | ------------------------ |
+| id     | int (PK, auto increment) |
+| name   | varchar                  |
+
+
+contributions
+| column       | type                | description                                             |
+| ------------ | ------------------- | ------------------------------------------------------- |
+| id           | int (PK)            | —                                                       |
+| user_id      | int (FK → users.id) | The user to whom the action belongs.                   |
+| title        | varchar             | Description of the contribution action.                 |
+| action_date  | date                | The date on which the action occurred.                  |
+| created_date | date                | The date on which the log was registered in the system. |
+
+
+4. Screen Flow-------------------
+
+Action Registration Form
+･Select user or enter a name
+･Enter action title
+･Submit button (POST)
+
+Action List View
+･Displays user_name
+･Displays title
+･Displays action_date
+･Displays created_date
+(retrieved via GET)
+
+
+5. API (Optional)-------------------
+POST /contributions
+GET  /contributions
+
+

@@ -117,6 +117,7 @@ This was born so that people could support one another.
 
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ---
 
@@ -132,6 +133,7 @@ are licensed under CC BY 4.0.
 
 **English Edition (Amazon):**  
 https://www.amazon.com/dp/B0G2SM4PZW
+
 
 
 

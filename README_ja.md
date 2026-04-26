@@ -124,7 +124,7 @@ CC BY 4.0 ライセンスのもとで公開されています。
 
 ## 出版
 日本語版（Amazon）：
-https://www.amazon.com/dp/B0FV6SQVXS
+https://www.amazon.co.jp/dp/B0FV6SQVXS
 
 日本語版論文（Zenodo）：
 https://zenodo.org/records/16923643
